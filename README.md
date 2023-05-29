@@ -12,5 +12,5 @@ English
 
 Using this app you can find any color you want. This app can generate random numbers which are using for showing colors.
 Use button "space" at your keyboard or refresh page if you want to create a new color.
-If you want to save your color use . Сolumn that in front of lock will not refresh anymore.
+If you want to save your color use opened lock. Сolumn that in front of lock will not refresh anymore.
 
