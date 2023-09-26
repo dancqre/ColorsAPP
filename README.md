@@ -1,4 +1,7 @@
 # ColorsAPP
+
+Watch demo: https://dancqre.github.io/ColorsAPP/
+
 mini-app where you can find any color you want.
 
 Українська
